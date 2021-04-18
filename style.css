@@ -1,0 +1,8 @@
+body{
+  background-image: url("practic.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  background-size: 450px 250px;
+
+}
